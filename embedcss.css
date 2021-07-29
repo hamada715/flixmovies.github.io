@@ -1,0 +1,11 @@
+
+body {
+	background-color: #c43333;
+}
+.wrapper{
+	margin: auto;
+  	width: 70%;
+  	padding: 10px;
+  	align-items: center;
+  	border: 10px;
+}
